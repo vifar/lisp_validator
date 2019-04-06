@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Validate",
+            "request": "launch",
+            "mainClass": "lisp_validator.Validate",
+            "projectName": "lisp_validator"
+        }
+    ]
+}
